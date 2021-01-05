@@ -1,2 +1,5 @@
-# cli
-test-for-cli
+# script
+
+npm run serve 
+
+npm run build

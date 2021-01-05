@@ -3,6 +3,9 @@
   "version": "{{version}}",
   "author": "{{author}}",
   "license": "ISC",
+  "script": {
+    "serve": "vue-cli-service serve"
+  },
   "dependencies": {
     "axios": "0.18.0",
     {{#with h2}}
